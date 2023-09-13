@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/HARRIS-IRFAN-123/card.github.io/static/css/main.93669f59.css",
-    "main.js": "/HARRIS-IRFAN-123/card.github.io/static/js/main.cb29c077.js",
-    "static/media/clinic.png": "/HARRIS-IRFAN-123/card.github.io/static/media/clinic.94502758542ff870a5a2.png",
-    "static/media/N.png": "/HARRIS-IRFAN-123/card.github.io/static/media/N.1aca6e3e8d71e27bd7e2.png",
-    "static/media/html.png": "/HARRIS-IRFAN-123/card.github.io/static/media/html.ea82a3571f811c5520a0.png",
-    "static/media/T.png": "/HARRIS-IRFAN-123/card.github.io/static/media/T.9610e66eb602c2e46386.png",
-    "static/media/Bootstrap.png": "/HARRIS-IRFAN-123/card.github.io/static/media/Bootstrap.800e87ad3583ebd2827b.png",
-    "static/media/jquery.png": "/HARRIS-IRFAN-123/card.github.io/static/media/jquery.d18cda7c844d7aef8568.png",
-    "index.html": "/HARRIS-IRFAN-123/card.github.io/index.html",
-    "main.93669f59.css.map": "/HARRIS-IRFAN-123/card.github.io/static/css/main.93669f59.css.map",
-    "main.cb29c077.js.map": "/HARRIS-IRFAN-123/card.github.io/static/js/main.cb29c077.js.map"
+    "main.css": "/card.github.io/static/css/main.93669f59.css",
+    "main.js": "/card.github.io/static/js/main.71b8b82a.js",
+    "static/media/clinic.png": "/card.github.io/static/media/clinic.94502758542ff870a5a2.png",
+    "static/media/N.png": "/card.github.io/static/media/N.1aca6e3e8d71e27bd7e2.png",
+    "static/media/html.png": "/card.github.io/static/media/html.ea82a3571f811c5520a0.png",
+    "static/media/T.png": "/card.github.io/static/media/T.9610e66eb602c2e46386.png",
+    "static/media/Bootstrap.png": "/card.github.io/static/media/Bootstrap.800e87ad3583ebd2827b.png",
+    "static/media/jquery.png": "/card.github.io/static/media/jquery.d18cda7c844d7aef8568.png",
+    "index.html": "/card.github.io/index.html",
+    "main.93669f59.css.map": "/card.github.io/static/css/main.93669f59.css.map",
+    "main.71b8b82a.js.map": "/card.github.io/static/js/main.71b8b82a.js.map"
   },
   "entrypoints": [
     "static/css/main.93669f59.css",
-    "static/js/main.cb29c077.js"
+    "static/js/main.71b8b82a.js"
   ]
 }
